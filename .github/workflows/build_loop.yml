@@ -290,6 +290,7 @@ jobs:
           watch_title \
           2hlollipop \
           basal_lock \
+          2002 \
           live_activity
 
           # the final customization listed above CANNOT have a continuation character
