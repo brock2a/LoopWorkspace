@@ -294,11 +294,13 @@ jobs:
           no_auth \
           now_line \
           lnl_icon \
+          override_sense \
           watch_title \
           2hlollipop \
           basal_lock \
           2002 \
-          live_activity
+          live_activity \
+          negative_insulin 
 
           # the final customization listed above CANNOT have a continuation character
           # more customizations can be pasted after this line
