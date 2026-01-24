@@ -220,7 +220,6 @@ jobs:
           profiles \
           basal_lock \
           future_carbs_4h \
-          remote_window \
           negative_insulin 
           
           # the final customization listed above CANNOT have a continuation character
