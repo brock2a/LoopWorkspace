@@ -244,6 +244,7 @@ jobs:
           basal_lock \
           future_carbs_4h \
           negative_insulin \
+          remote_window \
           no_auth
           
           # the final customization listed above CANNOT have a continuation character
